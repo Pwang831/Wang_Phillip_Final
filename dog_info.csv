@@ -1,0 +1,191 @@
+Temperament,AKC Breed Popularity,Height,Weight,Life Expectancy,Group,Breed
+"Confident, Famously Funny, Fearless",148.0,10.25,8.5,13.5,Toy Group,Affenpinscher
+"Independent, Sweet, Regal",113.0,26.0,55.0,15.0,Hound Group,Afghan-Hound
+"Friendly, Clever, Courageous",60.0,23.0,60.0,12.5,Terrier Group,Airedale-Terrier
+"Courageous, Dignified, Profoundly Loyal",47.0,26.0,100.0,11.5,Working Group,Akita
+"Affectionate, Loyal, Playful",58.0,24.0,80.0,12.0,Working Group,Alaskan-Malamute
+"Sweet, Mellow, Sociable",175.0,24.5,55.0,11.5,Hound Group,American-English-Coonhound
+"Playful, Perky, Smart",122.0,13.666666666666666,17.666666666666668,14.0,Non-Sporting Group,American-Eskimo-Dog
+"Independent, Easy-Going, Sweet-Tempered",186.0,23.0,65.0,12.0,Hound Group,American-Foxhound
+"Energetic, Alert, Curious",136.0,14.0,14.0,15.0,Terrier Group,American-Hairless-Terrier
+"Confident, Smart, Good-Natured",85.0,18.0,55.0,14.0,Terrier Group,American-Staffordshire-Terrier
+"Eager, Happy, Charming",166.0,16.5,35.0,12.0,Sporting Group,American-Water-Spaniel
+"Loyal, Independent, Reserved",90.0,28.0,115.0,12.0,Working Group,Anatolian-Shepherd-Dog
+"Alert, Curious, Pleasant",55.0,18.5,42.5,14.0,Herding Group,Australian-Cattle-Dog
+"Smart, Work-Oriented, Exuberant",17.0,20.5,52.5,13.5,Herding Group,Australian-Shepherd
+"Affectionate, Courageous, Spirited",140.0,10.5,17.5,13.0,Terrier Group,Australian-Terrier
+"Loyal, Independent, Deeply Affectionate",191,26.25,44.0,13.5,Hound Group,Azawakh
+"Independent, Smart, Poised",87.0,16.5,23.0,13.5,Hound Group,Basenji
+"Charming, Patient, Low-Key",39.0,15.0,52.5,12.5,Hound Group,Basset-Hound
+"Friendly, Curious, Merry",6.0,13.666666666666666,21.25,12.5,Hound Group,Beagle
+"Smart, Bouncy, Charismatic",127.0,21.0,50.0,13.0,Herding Group,Bearded-Collie
+"Gentle, Faithful, Obedient",124.0,25.875,90.0,11.0,Herding Group,Beauceron
+"Loyal, Charming, Frollicking",141.0,16.25,20.0,13.5,Terrier Group,Bedlington-Terrier
+"Confident, Smart, Hardworking",43.0,24.0,60.0,15.0,Herding Group,Belgian-Malinois
+"Bright, Watchful, Serious-Minded",125.0,24.0,58.75,13.0,Herding Group,Belgian-Sheepdog
+"Courageous, Alert, Intelligent",106.0,24.0,58.75,13.0,Herding Group,Belgian-Tervuren
+"Independent, Sociable, Intelligent",187.0,22.75,70.5,14.0,Herding Group,Bergamasco-Sheepdog
+"Loyal, Good-Natured, Observant",144.0,23.5,60.0,12.5,Herding Group,Berger-Picard
+"Good-Natured, Calm, Strong",22.0,25.375,90.0,8.5,Working Group,Bernese-Mountain-Dog
+"Playful, Curious, Peppy",46.0,10.5,15.0,14.5,Non-Sporting Group,Bichon-Frise
+"Easy-Going, Bright, Brave",138.0,25.0,87.5,11.0,Hound Group,Black-and-Tan-Coonhound
+"Intelligent, Calm, Powerful",118.0,28.0,105.0,11.0,Working Group,Black-Russian-Terrier
+"Friendly, Independent, Inquisitive",49.0,25.0,95.0,11.0,Hound Group,Bloodhound
+"Smart, Devoted, Tenacious",130.0,23.75,61.25,11.5,Hound Group,Bluetick-Coonhound
+"Confident, Intelligent, Calm",121.0,24.5,175.0,10.0,Working Group,Boerboel
+"Affectionate, Smart, Energetic",35.0,20.0,42.5,13.5,Herding Group,Border-Collie
+"Affectionate, Happy, Plucky",88.0,13.5,13.5,13.5,Terrier Group,Border-Terrier
+"Affectionate, Loyal, Regally Dignified",103.0,27.0,81.25,11.5,Hound Group,Borzoi
+"Friendly, Bright, Amusing",21.0,16.0,18.5,12.0,Non-Sporting Group,Boston-Terrier
+"Affectionate, Courageous, Strong-Willed",84.0,25.5,90.0,11.0,Herding Group,Bouvier-des-Flandres
+"Bright, Fun-Loving, Active",11.0,23.25,53.333333333333336,11.0,Working Group,Boxer
+"Friendly, Eager, Lovable",100.0,16.0,32.5,12.5,Sporting Group,Boykin-Spaniel
+"Confident, Smart, Faithful",132.0,24.375,77.5,Herding Group,Briard
+"Bright, Fun-Loving, Upbeat",26.0,19.0,35.0,13.0,Sporting Group,Brittany
+"Loyal, Alert, Curious",98.0,8.5,9.0,13.5,Toy Group,Brussels-Griffon
+"Playful, Charming, Mischievous",62.0,21.5,60.0,12.5,Terrier Group,Bull-Terrier
+"Friendly, Courageous, Calm",5.0,14.5,45.0,9.0,Non-Sporting Group,Bulldog
+"Affectionate, Loyal, Brave",51.0,25.5,115.0,8.0,Working Group,Bullmastiff
+"Alert, Cheerful, Busy",69.0,9.75,13.5,14.0,Terrier Group,Cairn-Terrier
+"Confident, Alert, Vigilant",179.0,21.5,45.0,13.5,Herding Group,Canaan-Dog
+"Affectionate, Intelligent, Majestic",32.0,25.5,Proportionate to height,10.5,Working Group,Cane-Corso
+"Affectionate, Loyal, Smart",68.0,11.5,31.75,13.5,Herding Group,Cardigan-Welsh-Corgi
+"Affectionate, Gentle, Graceful",18.0,12.5,15.5,13.5,Toy Group,Cavalier-King-Charles-Spaniel
+"Clever, Adventurous, Family-Oriented",185.0,11.5,19.0,13.5,Terrier Group,Cesky-Terrier
+"Affectionate, Bright, Sensitive",45.0,23.5,67.5,11.5,Sporting Group,Chesapeake-Bay-Retriever
+"Charming, Graceful, Sassy",33.0,6.5,6.0,15.0,Toy Group,Chihuahua
+"Affectionate, Alert, Lively",79.0,12.0,10.0,15.5,Toy Group,Chinese-Crested
+"Loyal, Independent, Calm",64.0,19.0,52.5,10.0,Non-Sporting Group,Chinese-Shar-Pei
+"Smart, Patient, Devoted",190.0,24.0,65.0,13.5,Working Group,Chinook
+"Dignified, Bright, Serious-Minded",75.0,18.5,57.5,10.0,Non-Sporting Group,Chow-Chow
+"Mellow, Amusing, Gentlemanly",143.0,18.5,70.0,11.0,Sporting Group,Clumber-Spaniel
+"Gentle, Smart, Happy",30.0,14.5,25.0,12.0,Sporting Group,Cocker-Spaniel
+"Devoted, Graceful, Proud",38.0,24.0,62.5,13.0,Herding Group,Collie
+"Charming, Bright, Happy-Go-Lucky",81.0,10.0,11.25,17.0,Non-Sporting Group,Coton-de-Tulear
+"Confident, Proud, Wickedly Smart",162.0,25.0,77.5,11.0,Sporting Group,Curly-Coated-Retriever
+"Friendly, Curious, Spunky",12.0,7.0,19.666666666666668,14.0,Hound Group,Dachshund
+"Dignified, Smart, Outgoing",56.0,21.5,57.5,12.0,Non-Sporting Group,Dalmatian
+"Independent, Smart, Proud",176.0,9.5,21.0,13.5,Terrier Group,Dandie-Dinmont-Terrier
+"Loyal, Fearless, Alert",17.0,26.0,81.25,11.0,Working Group,Doberman-Pinscher
+"Affectionate, Loyal, Courageous",67.0,24.09,104.5,6.5,Working Group,Dogue-de-Bordeaux
+"Energetic, Merry, Responsive",52.0,16.0,30.0,13.0,Sporting Group,English-Cocker-Spaniel
+"Affectionate, Gentle, Sociable",188.0,24.0,67.5,11.5,Hound Group,English-Foxhound
+"Friendly, Mellow, Merry",94.0,25.0,61.25,Sporting Group,English-Setter
+"Friendly, Playful, Obedient",27.0,19.5,45.0,13.0,Sporting Group,English-Springer-Spaniel
+"Gentle, Playful, Intelligent",135.0,9.5,11.0,11.0,Toy Group,English-Toy-Spaniel
+"Loyal, Smart, Enthusiastic",157.0,18.5,52.5,12.0,Herding Group,Entlebucher-Mountain-Dog
+"Sweet, Fun-Loving, Sensitive",149.0,17.5,42.5,12.5,Sporting Group,Field-Spaniel
+"Friendly, Alert, Agile",161.0,18.5,43.0,13.5,Herding Group,Finnish-Lapphund
+"Friendly, Good-Natured, Lively",184.0,17.75,26.5,14.0,Non-Sporting Group,Finnish-Spitz
+"Cheerful, Optimistic, Good-Humored",91.0,23.25,65.0,9.0,Sporting Group,Flat-Coated-Retriever
+"Adaptable, Playful, Smart",4.0,12.0,28.0,11.0,Non-Sporting Group,French-Bulldog
+"Courageous, Intelligent, Vivacious",134.0,18.5,35.0,13.0,Working Group,German-Pinscher
+"Confident, Courageous, Smart",2.0,24.0,68.75,8.5,Herding Group,German-Shepherd-Dog
+"Friendly, Smart, Willing to Please",9.0,23.0,57.5,11.0,Sporting Group,German-Shorthaired-Pointer
+"Affectionate, Eager, Enthusiastic",63.0,24.0,60.0,15.0,Sporting Group,German-Wirehaired-Pointer
+"Loyal, Alert, Trainable",78.0,25.5,68.75,13.5,Working Group,Giant-Schnauzer
+"Gentle, Spirited, Bold",174.0,13.25,36.0,12.5,Terrier Group,Glen-of-Imaal-Terrier
+"Friendly, Intelligent, Devoted",3.0,22.75,65.0,11.0,Sporting Group,Golden-Retriever
+"Affectionate, Confident, Bold",115.0,25.0,62.5,12.5,Sporting Group,Gordon-Setter
+"Friendly, Patient, Dependable",16.0,30.0,141.25,8.5,Working Group,Great-Dane
+"Smart, Patient, Calm",66.0,28.25,92.5,11.0,Working Group,Great-Pyrenees
+"Faithful, Family-Oriented, Dependable",74.0,26.125,112.5,9.5,Working Group,Greater-Swiss-Mountain-Dog
+"Gentle, Independent, Noble",145.0,28.25,65.0,11.5,Hound Group,Greyhound
+"Friendly, Outgoing, People-Oriented",189.0,20.0,52.5,13.5,Hound Group,Harrier
+"Intelligent, Outgoing, Funny",24.0,10.0,10.0,15.0,Toy Group,Havanese
+"Family-Oriented, Even-Tempered, Polite",152.0,24.875,47.5,12.5,Hound Group,Ibizan-Hound
+"Friendly, Playful, Inquisitive",155.0,17.25,27.5,13.0,Herding Group,Icelandic-Sheepdog
+"Courageous, Spirited, Determined",146.0,24.25,46.75,13.0,Sporting Group,Irish-Red-and-White-Setter
+"Active, Outgoing, Sweet-Natured",77.0,26.0,65.0,13.5,Sporting Group,Irish-Setter
+"Bold, Dashing, Tenderhearted",116.0,18.0,26.0,14.0,Terrier Group,Irish-Terrier
+"Playful, Hardworking, Brave",159.0,22.5,56.5,12.5,Sporting Group,Irish-Water-Spaniel
+"Courageous, Dignified, Calm",76.0,31.0,112.5,7.0,Hound Group,Irish-Wolfhound
+"Playful, Alert, Sensitive",73.0,14.0,10.5,14.5,Toy Group,Italian-Greyhound
+"Charming, Noble, Loving",104.0,9.5,9.0,11.0,Toy Group,Japanese-Chin
+"Friendly, Lively, Outgoing",95.0,17.5,40.0,13.5,Non-Sporting Group,Keeshond
+"Smart, Alert, People-Oriented",129.0,18.5,36.5,13.5,Terrier Group,Kerry-Blue-Terrier
+"Loyal, Dignified, Brave",173.0,26.5,90.0,11.0,Working Group,Komondor
+"Loyal, Fearless, Sweet",163.0,28.0,93.75,11.0,Working Group,Kuvasz
+"Friendly, Active, Outgoing",1.0,23.0,67.5,11.0,Sporting Group,Labrador-Retriever
+"Affectionate, Keen, Undemanding",99.0,17.5,29.625,16.0,Sporting Group,Lagotto-Romagnolo
+"Friendly, Confident, Bold",147.0,14.5,17.0,13.5,Terrier Group,Lakeland-Terrier
+"Friendly, Gentle, Playful",93.0,28.625,127.5,Working Group,Leonberger
+"Confident, Smart, Comical",71.0,10.5,15.0,13.5,Non-Sporting Group,Lhasa-Apso
+"Affectionate, Outgoing, Positive",168.0,12.0,12.5,Non-Sporting Group,Lowchen
+"Gentle, Playful, Charming",37.0,8.0,7.0,13.5,Toy Group,Maltese
+"Spirited, Bright, Keenly Observant",133.0,15.5,17.0,16.0,Terrier Group,Manchester-Terrier-(Standard)
+"Agile, Spirited, Intelligent",133.0,11.0,12.0,16.0,Toy Group,Manchester-Terrier-(Toy)
+"Courageous, Dignified, Good-Natured",29.0,28.75,170.0,8.0,Working Group,Mastiff
+"Good-Natured, Intelligent, Devoted",34.0,15.5,30.0,12.5,Herding Group,Miniature-American-Shepherd
+"Upbeat, Mischievous, Comical",110.0,12.0,23.0,12.0,Terrier Group,Miniature-Bull-Terrier
+"Fearless, Fun-Loving, Proud",70.0,11.25,9.0,14.0,Toy Group,Miniature-Pinscher
+"Friendly, Smart, Obedient",19.0,13.0,15.5,13.5,Terrier Group,Miniature-Schnauzer
+"Loyal, Dignified, Watchful",102.0,27.5,130.0,8.0,Working Group,Neapolitan-Mastiff
+"Friendly, Alert, Quick",150.0,15.5,25.0,13.5,Sporting Group,Nederlandse-Kooikerhondje
+"Sweet, Patient, Devoted",40.0,27.0,125.0,9.5,Working Group,Newfoundland
+"Fearless, Alert, Fun-Loving",126.0,9.5,11.5,14.0,Terrier Group,Norfolk-Terrier
+"Confident, Smart, Perceptive",165.0,17.25,33.0,13.5,Herding Group,Norwegian-Buhund
+"Friendly, Confident, Dependable",97.0,20.0,51.5,13.5,Hound Group,Norwegian-Elkhound
+"Loyal, Energetic, Alert",191.0,13.5,25.0,13.5,Non-Sporting Group,Norwegian-Lundehund
+"Affectionate, Alert, Curious",108.0,10.0,12.0,13.5,Terrier Group,Norwich-Terrier
+"Affectionate, Intelligent, Outgoing",83.0,19.0,42.5,13.0,Sporting Group,Nova-Scotia-Duck-Tolling-Retriever
+"Adaptable, Gentle, Smart",72.0,21.5,80.0,11.0,Herding Group,Old-English-Sheepdog
+"Even-Tempered, Amiable, Boisterous",182.0,25.5,97.5,11.5,Hound Group,Otterhound
+"Friendly, Alert, Happy",54.0,9.5,7.5,15.0,Toy Group,Papillon
+"Friendly, Clever, Athletic",117.0,13.5,15.0,14.0,Terrier Group,Parson-Russell-Terrier
+"Affectionate, Loyal, Regal in Manner",92.0,7.5,14.0,13.0,Toy Group,Pekingese
+"Affectionate, Smart, Alert",13.0,11.0,29.0,12.5,Herding Group,Pembroke-Welsh-Corgi
+"Friendly, Smart, Noble",172.0,23.25,50.0,13.0,Hound Group,Pharaoh-Hound
+"Loyal, Alert, Intelligent",171.0,22.0,51.25,13.0,Hound Group,Plott-Hound
+"Loyal, Hardworking, Even-Tempered",114.0,25.5,60.0,14.5,Sporting Group,Pointer
+"Confident, Clever, Lively",170.0,18.5,40.0,13.0,Herding Group,Polish-Lowland-Sheepdog
+"Inquisitive, Bold, Lively",23.0,6.5,5.0,14.0,Toy Group,Pomeranian
+"Active, Proud, Very Smart",7.0,12.5,12.5,14.0,Non-Sporting Group,Poodle-(Miniature)
+"Active, Proud, Very Smart",7.0,15.0,55.0,14.0,Non-Sporting Group,Poodle-(Standard)
+"Agile, Intelligent, Self-Confident",7.0,10.0,5.0,14.0,Toy Group,Poodle-(Toy)
+"Playful, Charming, Lively",154.0,10.0,11.0,13.5,Hound Group,Portuguese-Podengo-Pequeno
+"Affectionate, Adventurous, Athletic",50.0,20.25,46.75,12.0,Working Group,Portuguese-Water-Dog
+"Charming, Mischievous, Loving",28.0,11.5,16.0,14.0,Toy Group,Pug
+"Loyal, Smart, Home-Loving",160.0,16.5,30.0,12.5,Herding Group,Puli
+"Energetic, Lively, Ready to Work",151.0,16.75,25.5,12.5,Herding Group,Pumi
+"Affectionate, Active, Enthusiastic",181.0,17.4375,22.5,Late teens,Herding Group,Pyrenean-Shepherd
+"Friendly, Inquisitive, Lovable",86.0,13.5,17.5,15.0,Terrier Group,Rat-Terrier
+"Even-Tempered, Amiable, Eager to Please",142.0,24.0,57.5,13.5,Hound Group,Redbone-Coonhound
+"Affectionate, Dignified, Even-Tempered",41.0,25.5,77.5,Hound Group,Rhodesian-Ridgeback
+"Loyal, Loving, Confident Guardian",8.0,24.5,102.5,9.5,Working Group,Rottweiler
+"Alert, Inquisitive, Lively",82.0,11.0,12.0,13.0,Terrier Group,Russell-Terrier
+"Gentle, Dignified, Independent-Minded",120.0,25.5,52.5,13.5,Hound Group,Saluki
+"Adaptable, Friendly, Gentle",59.0,21.125,48.75,13.0,Working Group,Samoyed
+"Confident, Alert, Curious",105.0,11.5,13.0,13.0,Non-Sporting Group,Schipperke
+"Gentle, Dignified, Polite",158.0,30.0,91.25,9.5,Hound Group,Scottish-Deerhound
+"Confident, Independent, Spirited",57.0,10.0,20.0,Terrier Group,Scottish-Terrier
+"Alert, Outgoing, Sense Of Humor",164.0,10.5,23.5,13.0,Terrier Group,Sealyham-Terrier
+"Playful, Energetic, Bright",25.0,14.5,20.0,13.0,Herding Group,Shetland-Sheepdog
+"Alert, Active, Attentive",44.0,15.0,20.0,14.5,Non-Sporting Group,Shiba-Inu
+"Affectionate, Playful, Outgoing",20.0,9.75,12.5,14.0,Toy Group,Shih-Tzu
+"Loyal, Outgoing, Mischevious",14.0,21.625,47.5,13.0,Working Group,Siberian-Husky
+"Friendly, Quick, Keenly Alert",112.0,9.5,10.0,14.0,Toy Group,Silky-Terrier
+"Courageous, Good-Tempered, Canny",178.0,9.75,40.0,13.0,Terrier Group,Skye-Terrier
+"Reserved, Graceful, Noble",192.0,26.5,42.5,12.5,Hound Group,Sloughi
+"Friendly, Independent, Amusing",123.0,0,16.666666666666668,13.5,Terrier Group,Smooth-Fox-Terrier
+"Friendly, Happy, Deeply Devoted",53.0,18.0,35.0,13.0,Terrier Group,Soft-Coated-Wheaten-Terrier
+Playful but also Work-Oriented. Very Active and Upbeat.,153.0,17.75,40.0,13.0,Herding Group,Spanish-Water-Dog
+"Clever, Brave, Tenacious",80.0,15.0,31.0,13.0,Terrier Group,Staffordshire-Bull-Terrier
+"Fearless, Smart, Spirited",89.0,18.5,40.0,14.5,Working Group,Standard-Schnauzer
+"Friendly, Merry, Even-Tempered",180.0,14.0,40.0,14.0,Sporting Group,Sussex-Spaniel
+"Friendly, Energetic, Watchful",169.0,12.625,27.5,13.5,Herding Group,Swedish-Vallhund
+"Independent, Reserved, Intelligent",131.0,25.0,107.5,11.0,Working Group,Tibetan-Mastiff
+"Playful, Bright, Self-Confident",119.0,10.0,12.0,13.5,Non-Sporting Group,Tibetan-Spaniel
+"Affectionate, Loyal, Sensitive",96.0,15.5,24.0,15.5,Non-Sporting Group,Tibetan-Terrier
+"Smart, Brave, Courteous",137.0,23.5,60.0,12.5,Hound Group,Treeing-Walker-Coonhound
+"Affectionate, Gentle, Energetic",31.0,22.5,53.5,13.0,Sporting Group,Vizsla
+"Friendly, Fearless, Obedient",36.0,25.0,72.5,11.5,Sporting Group,Weimaraner
+"Happy, Reserved, Upbeat",128.0,18.0,45.0,13.5,Sporting Group,Welsh-Springer-Spaniel
+"Friendly, Spirited, Intelligent",107.0,15.0,20.0,13.5,Terrier Group,Welsh-Terrier
+"Loyal, Happy, Entertaining",42.0,10.5,17.5,14.0,Terrier Group,West-Highland-White-Terrier
+"Affectionate, Playful, Calm",61.0,20.0,32.5,13.5,Hound Group,Whippet
+"Confident, Alert, Gregarious",101.0,0,16.666666666666668,13.5,Terrier Group,Wire-Fox-Terrier
+"Friendly, Devoted, Trainable",65.0,22.0,51.25,13.5,Sporting Group,Wirehaired-Pointing-Griffon
+"Gentle, Loyal, Trainable",167.0,23.125,55.0,13.0,Sporting Group,Wirehaired-Vizsla
+"Loyal, Alert, Calm",140.0,16.166666666666668,25.833333333333332,15.5,Non-Sporting Group,Xoloitzcuintli
+"Affectionate, Sprightly, Tomboyish",10.0,7.5,7.0,13.0,Toy Group,Yorkshire-Terrier
